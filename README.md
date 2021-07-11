@@ -1,2 +1,2 @@
 # screwUP
-# To Exit the Program: Keep pressing the tab key until the program stops.
+# To Exit the Program: Keep the tab key pressed until the program stops.
