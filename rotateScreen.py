@@ -1,14 +1,15 @@
+import os
+
+os.system('cmd /c pip3 install rotate-screen')
+os.system('cmd /c pip3 install time')
+os.system('cmd /c pip3 install keyboard')
+os.system('cmd /c pip3 install sys')
+
 import rotatescreen
 import time
 import keyboard
 import time
 import sys
-import os
-
-os.system('cmd /c pip install rotate-screen')
-os.system('cmd /c pip install time')
-os.system('cmd /c pip install keyboard')
-os.system('cmd /c pip install sys')
 
 screen = rotatescreen.get_primary_display()
 for i in range(10000000):
